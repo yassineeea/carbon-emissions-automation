@@ -1,7 +1,7 @@
 # 🌍 Carbon Emissions Automation
 
-[![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen.svg)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
-[![Hugging Face Spaces](https://img.shields.io/badge/HF-Spaces-orange.svg)](https://yassine123z-emissionfactor-mapper2.hf.space/)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-brightgreen.svg)](https://yassine123z-emissionfactor-mapper2-v2-gradio2ui.hf.space/)
+[![Hugging Face Spaces](https://img.shields.io/badge/HF-Spaces-orange.svg)](https://huggingface.co/spaces/yassine123Z/EmissionFactor-mapper2-v2-Gradio2UI)
 
 
 > End-to-end pipeline that converts raw transaction and invoice data into activity-based CO₂e estimates.  
@@ -136,7 +136,7 @@ I built and deployed a **FastAPI microservice** that maps raw client text (from 
 - **Output:** Best-matching categories (Cat1, Cat2, …) with a **similarity score**, ready to be aligned with emission factors.
 
 🌐 **Try it live:**  
-👉 [Emission Factor Mapper API (FastAPI on Hugging Face Spaces)](https://yassine123z-emissionfactor-mapper2.hf.space/docs#/)
+👉 [Emission Factor Mapper API (FastAPI on Hugging Face Spaces)](https://yassine123z-emissionfactor-mapper2-v2-gradio2ui.hf.space/)
 
 📖 **How to test:**
 
